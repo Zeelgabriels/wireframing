@@ -16,3 +16,18 @@ Wireframes are essential in the design process because they:
 
 ### When are Wireframes Used?
 Wireframes are typically created early in the design process—before visual design or development begins—making them essential for gathering feedback and enabling iteration without costly changes later.
+
+
+## Key Elements of Wireframing
+
+### 1. Layout Structure
+- Defines the placement and proportion of sections on the screen (e.g., header, sidebar, main content). A well-structured layout creates visual hierarchy and guides users naturally through content.
+
+### 2. Navigation
+- Shows how users move between screens and sections. This includes menus, breadcrumbs, or sidebars. Wireframes help clarify primary vs. secondary navigation paths.
+
+### 3. Content Placement
+- Focuses on the positioning of images, text blocks, buttons, and inputs. This allows teams to agree on information priority before styling is applied.
+
+### 4. Functionality
+- Outlines key interactive elements (e.g., buttons, forms, modals). Wireframes help plan for user actions without being distracted by visual styling.
