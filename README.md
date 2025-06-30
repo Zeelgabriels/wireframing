@@ -68,6 +68,51 @@ The StayEase Airbnb clone project utilizes **high-fidelity wireframes** because 
 - Specific content and realistic images
 - Detailed layout with precise spacing
 - Refined navigation elements
-- Interactive components clearly defined
+- Interactive components are clearly defined
 
 This high-fidelity approach is appropriate for this stage of the project as it helps stakeholders visualize the final product and provides clear specifications for the development team.
+
+
+## Wireframing Tools
+
+Wireframing tools help designers create, iterate, and test layout structures efficiently.
+
+### Popular Wireframing Tools
+
+- **Figma** – A browser-based design tool with powerful collaboration features. It supports both wireframes and high-fidelity UI prototypes.
+- **Balsamiq** – Best for quick, low-fidelity sketches. Emulates a hand-drawn style and is ideal for early feedback.
+- **Adobe XD** – Great for wireframes and prototyping, especially for designers in the Adobe ecosystem.
+- **Sketch** – Popular on macOS for UI design, with wireframing and plugin support.
+
+### Figma: A Recommended Tool for Wireframing
+
+Figma is a cloud-based design tool popular for wireframing, prototyping, and user interface design. Known for its versatility and user-friendly interface, it offers strong collaboration features and is accessible from web browsers and desktop apps. Its all-in-one capability allows for easy switching between design stages, streamlining the design process.
+
+
+### Why Figma is Ideal for Wireframing
+
+Figma stands out among wireframing tools due to several key advantages that make it particularly suitable for modern design workflows:
+
+- **Real-Time Collaboration:** Figma allows unlimited users to collaborate on the same project simultaneously. This feature ensures transparency, fosters teamwork, and eliminates version control issues.
+
+- **Cloud-Based Flexibility:** Being cloud-based, Figma can be accessed from any device without requiring installations. This ensures convenience and flexibility, especially for remote design teams.
+
+- **Low-Fidelity and High-Fidelity Wireframing Support:** Figma supports both low-fidelity (simple sketches and layouts) and high-fidelity (detailed, realistic designs) wireframes. This versatility helps designers transition smoothly at different stages of the design process.
+
+- **Component Libraries for Efficiency:** Designers can use and share component libraries to build consistent and reusable design elements. This feature accelerates the wireframing process while maintaining uniformity across designs.
+
+- **Interactive Prototyping and Usability Testing:** Figma lets you create clickable prototypes for usability testing and collecting feedback. This feature eliminates the need for separate prototyping tools and promotes rapid iteration.
+
+- **Version History and Easy Iteration:** Automatic versioning allows users to access previous versions, enabling them to revisit earlier design ideas without fear of losing progress.
+
+- **Cross-Platform Support:** Figma works across all major platforms (Windows, macOS, and browsers), ensuring compatibility among team members regardless of their devices.
+
+- **Developer Handoff Features:** Figma provides CSS code snippets, measurements, and asset exports, making it easier for developers to implement designs accurately.
+
+- **Pre-Built Templates and Wireframe Kits:** Figma provides pre-made wireframe kits and templates to simplify the process for beginners while speeding up wireframe creation for pros.
+
+- **Customizable Plugins:** A wide range of plugins and integrations enhances functionality. For instance, grids, maps, and advanced typography tools are available as plugins to improve workflow.
+
+- **Free Tier Availability:** Figma offers a robust free plan that is sufficient for freelancers, small teams, or projects. This accessibility ensures that individuals or organizations with limited budgets can still benefit.
+
+Figma makes it easy to move from low-fidelity sketches to fully interactive, high-fidelity prototypes — all in a single platform.
