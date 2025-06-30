@@ -20,16 +20,26 @@ Wireframes are typically created early in the design process—before visual des
 
 ## Key Elements of Wireframing
 
-### 1. Layout Structure
-- Defines the placement and proportion of sections on the screen (e.g., header, sidebar, main content). A well-structured layout creates visual hierarchy and guides users naturally through content.
+### Layout Structure
+Defines the placement and proportion of sections on the screen, such as header, sidebar, main content area, and footer. A well-structured layout creates visual hierarchy and guides users naturally through content.
 
-### 2. Navigation
-- Shows how users move between screens and sections. This includes menus, breadcrumbs, or sidebars. Wireframes help clarify primary vs. secondary navigation paths.
+**Example:** An e-commerce website might have a top banner, horizontal navigation bar, left sidebar for filters, main content grid for products, and bottom footer.
 
-### 3. Content Placement
-- Focuses on the positioning of images, text blocks, buttons, and inputs. This allows teams to agree on information priority before styling is applied.
+### Navigation
+Shows how users move between screens and sections, including primary menus, secondary navigation, breadcrumbs, and internal links. Wireframes help clarify the difference between primary and secondary navigation paths.
 
-### 4. Functionality
-- Outlines key interactive elements (e.g., buttons, forms, modals). Wireframes help plan for user actions without being distracted by visual styling.
+**Example:** A main navigation bar with "Home, Products, About, Contact" links, plus breadcrumb navigation showing "Home > Electronics > Smartphones" to indicate the user's current location.
 
-_“In our StayEase Airbnb-clone booking app, wireframes helped define how the navigation bar would prioritize search, profile access, and booking history — ensuring smooth user flow.”_
+### Content Placement
+Focuses on the positioning of text blocks, images, buttons, forms, and other content elements. This allows teams to agree on information priority and content hierarchy before any styling is applied.
+
+**Example:** On a product page, wireframes might show the product image on the left, product details on the right, with "Add to Cart" button prominently placed below the price.
+
+### Functionality
+Outlines key interactive elements and user actions, such as buttons, forms, modals, dropdown menus, and hover states. Wireframes help plan for user interactions without being distracted by visual styling.
+
+**Example:** A contact form wireframe would show input fields for name and email, a text area for messages, and a submit button, plus validation states for required fields.
+
+### 📽 Real-World Example
+
+In our StayEase Airbnb-clone booking app, wireframes helped define how the navigation bar would prioritize search, profile access, and booking history — ensuring smooth user flow.
