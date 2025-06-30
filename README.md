@@ -21,3 +21,7 @@ Wireframes are essential because they:
 ### Why it Matters
 
 Wireframing is crucial because it allows designers and developers to focus on functionality and user experience without getting distracted by visual elements. It helps teams communicate ideas clearly, saves time and money by identifying potential issues early, and provides a clear roadmap for the development team to follow. By wireframing first, we can test and refine the user journey before investing time in detailed design and coding.
+
+### When are Wireframes used in the Design Process?
+
+- Wireframes are typically created early in the design process—before visual design or development begins—making them essential for feedback and iteration.
