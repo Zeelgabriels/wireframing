@@ -43,31 +43,3 @@ Outlines key interactive elements and user actions, such as buttons, forms, moda
 ### 📽 Real-World Example
 
 In our StayEase Airbnb-clone booking app, wireframes helped define how the navigation bar would prioritize search, profile access, and booking history — ensuring smooth user flow.
-
-
-## Types of Wireframes
-
-### Low-Fidelity Wireframes
-These are basic, often hand-drawn or grayscale designs that focus on layout and functionality. They avoid detail and allow for quick feedback and iteration.
-
-**When to use:**  
-- Early in the design process  
-- When testing structure, flow, or rough ideas  
-- During brainstorming and stakeholder discussions
-
-### High-Fidelity Wireframes
-These are more detailed and polished wireframes that resemble the final UI. They include specific fonts, spacing, icons, and sometimes even real content or interactivity.
-
-**When to use:**  
-- Later in the design process  
-- Before handoff to developers  
-- When testing usability or presenting to clients
-
-### Wireframe Example Analysis
-The StayEase Airbnb clone project utilizes **high-fidelity wireframes** because they include:
-- Specific content and realistic images
-- Detailed layout with precise spacing
-- Refined navigation elements
-- Interactive components clearly defined
-
-This high-fidelity approach is appropriate for this stage of the project as it helps stakeholders visualize the final product and provides clear specifications for the development team.
