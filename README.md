@@ -1,4 +1,4 @@
-# # Wireframing in UI/UX Design
+# Wireframing in UI/UX Design
 
 ## Introduction to Wireframing
 
