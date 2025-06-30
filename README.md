@@ -31,3 +31,5 @@ Wireframes are typically created early in the design process—before visual des
 
 ### 4. Functionality
 - Outlines key interactive elements (e.g., buttons, forms, modals). Wireframes help plan for user actions without being distracted by visual styling.
+
+_“In our StayEase Airbnb-clone booking app, wireframes helped define how the navigation bar would prioritize search, profile access, and booking history — ensuring smooth user flow.”_
